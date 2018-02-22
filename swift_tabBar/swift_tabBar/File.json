@@ -1,0 +1,23 @@
+[
+  {
+  "vcName":"HomeViewController",
+  "imageName":"tabbar_brillient",
+  "titleName":"首页"
+  },
+  {
+  "vcName":"MessageViewController",
+  "imageName":"tabbar_message",
+  "titleName":"消息"
+ },
+ {
+ "vcName":"ToolsViewController",
+ "imageName":"tabbar_tool",
+ "titleName":"工具"
+ },
+ {
+ "vcName":"ProfileViewController",
+ "imageName":"tabbar_mine",
+ "titleName":"我的"
+ }
+]
+
