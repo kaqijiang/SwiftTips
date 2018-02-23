@@ -52,13 +52,14 @@ class baseTabBarController: UITabBarController {
     
     private func addChildViewController(vcName: String, imageName: String, titleName: String) {
         //获取命名空间 build setting -- packaging
-        guard  let spaceName = Bundle.main.infoDictionary!["CFBundleExecutable"] as? String else {
-            print("获取命名空间失败")
-            return
-        }
+//        guard  let spaceName = Bundle.main.!["CFBundleExecutable"] as? String else {
+//            print("获取命名空间失败")
+//            return
+//        }
+        
         //拼接
-        guard let childVcClass = NSClassFromString(spaceName + "." + vcName) else {
-            print("拼接失败")
+        guard let childVcClass = NSClassFromString(Bundle.main.nameSpace + "." + vcName) else {
+            print("拼接失败\(Bundle.main.nameSpace)")
             return
         }
         //转换
