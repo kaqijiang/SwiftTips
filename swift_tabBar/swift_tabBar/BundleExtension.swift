@@ -11,7 +11,8 @@ import Foundation
 extension Bundle {
     var nameSpace: String {
         
-//        return Bundle.main.infoDictionary?["CFBundleName"] as? String ?? ""
-        return infoDictionary?["CFBundleName"] as? String ?? ""
+//        return Bundle.main.infoDictionary?["CFBundleExecutable"] as? String ?? ""
+        
+        return infoDictionary?["CFBundleExecutable"] as? String ?? ""
     }
 }
