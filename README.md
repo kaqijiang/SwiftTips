@@ -20,14 +20,15 @@
 
 Project 01 - [SimpleStopWatch](https://github.com/allenwong/30DaysofSwift/tree/master/Project%2001%20-%20SimpleStopWatch)
 
-![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B1%5DStopWatch/1StopWatch1.gif)
+    1.extension的使用。
+    2.自定义cell的使用
+    3.结构体
+    4.Bundle路径
+    5.AVKit AVFoundation初步使用
+
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/[1]StopWatch/1StopWatch1.gif?raw=true)
 
- 1.extension的使用。
- 2.自定义cell的使用
- 3.结构体
- 4.Bundle路径
- 5.AVKit AVFoundation初步使用
+ 
 
 ## More  me ##
 
