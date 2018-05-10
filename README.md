@@ -29,11 +29,17 @@
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/[1]StopWatch/1StopWatch1.gif?raw=true)
 
-Project 2 - [CusetonFont](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DCusetonFont)
+### Project 2 - [CusetonFont](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DCusetonFont)
 
-- kjs
+- 导入字体
+- tableView注册Identifier
+- tableView的基本使用
+- UIFont设置字体
+- storyboard navgationController的初步使用
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B2%5DCusetonFont/2CusetonFont.gif?raw=true)
+   
+
    
 
 
