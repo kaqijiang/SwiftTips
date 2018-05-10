@@ -9,10 +9,11 @@
 import UIKit
 /**
  
- 1.倒入字体
+ 1.导入字体
  2.tableView注册Identifier
  3.tableView的基本使用
  4.UIFont设置字体
+ 5.storyboard navgationController的初步使用
  */
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
