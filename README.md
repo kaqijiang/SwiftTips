@@ -2,7 +2,7 @@
 
 ![](https://github.com/kaqijiang/SwiftTips/blob/master/index.png?raw=true)
 
-[![Blog URL](https://img.shields.io/badge/Blog-Seven-yellow.svg?style=social)](https://kaqijiang.github.io/)
+[![Blog URL](https://img.shields.io/badge/Blog-Seven-yellow.svg)](https://kaqijiang.github.io/)
 [![JianShu URL](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E5%8D%A1%E5%A5%87%E5%8C%A0-lightgrey.svg)](https://www.jianshu.com/u/bee103cd1f97)
 
 ## Hi Community ##
