@@ -33,7 +33,7 @@ Project 2 - [CusetonFont](https://github.com/kaqijiang/SwiftTips/tree/master/%5B
 
 - 222
 
-![](https://raw.githubusercontent.com/kaqijiang/CusetonFont/master/[2]StopWatch/2CusetonFont.gif?raw=true)
+![](https://raw.githubusercontent.com/kaqijiang/CusetonFont/master/[2]CusetonFont/2CusetonFont.gif?raw=true)
    
 
 ## Next ##
