@@ -19,7 +19,7 @@
 
 ## Project Index & GIF Showcase ##
 
-Project 01 - [SimpleStopWatch](https://github.com/allenwong/30DaysofSwift/tree/master/Project%2001%20-%20SimpleStopWatch)
+Project 01 - [SimpleStopWatch](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DStopWatch)
 
 - extension的使用。
 - 自定义cell的使用
@@ -29,15 +29,15 @@ Project 01 - [SimpleStopWatch](https://github.com/allenwong/30DaysofSwift/tree/m
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/[1]StopWatch/1StopWatch1.gif?raw=true)
 
- 
+Project 2 - [CusetonFont](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DCusetonFont)
 
-## More  me ##
+- ssss
 
-j: [@creativewang](https://twitter.com/creativewang)
+![](https://raw.githubusercontent.com/kaqijiang/CusetonFont/master/[2]StopWatch/2CusetonFont1.gif?raw=true)
+   
 
-Dribbble: [Allen Wang](https://dribbble.com/openallen)
+## Next ##
 
-Weibo: [@Allen朝辉](http://weibo.com/wangchaohui)
 
  
 
