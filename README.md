@@ -31,9 +31,9 @@ Project 01 - [SimpleStopWatch](https://github.com/kaqijiang/SwiftTips/tree/maste
 
 Project 2 - [CusetonFont](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DCusetonFont)
 
-- ssss
+- 222
 
-![](https://raw.githubusercontent.com/kaqijiang/CusetonFont/master/[2]StopWatch/2CusetonFont1.gif?raw=true)
+![](https://raw.githubusercontent.com/kaqijiang/CusetonFont/master/[2]StopWatch/2CusetonFont.gif?raw=true)
    
 
 ## Next ##
