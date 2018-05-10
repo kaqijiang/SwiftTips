@@ -39,7 +39,16 @@
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B2%5DCusetonFont/2CusetonFont.gif?raw=true)
    
+### Project 3 - [PlayLocalVideo](https://github.com/kaqijiang/SwiftTips/tree/master/%5B3%5DPlayLocalVideo)
 
+- extension的使用。
+- 自定义cell的使用
+- 结构体
+- Bundle路径
+- AVKit AVFoundation初步使用
+
+![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B3%5DPlayLocalVideo/3PlayLocalVideo.gif?raw=true)
+   
    
 
 
