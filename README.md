@@ -1,4 +1,5 @@
-# SwiftTips learning of Swift
+# SwiftTips --- learning of Swift
+
 
 ![](https://github.com/kaqijiang/SwiftTips/blob/master/index.png?raw=true)
 
@@ -20,11 +21,11 @@
 
 Project 01 - [SimpleStopWatch](https://github.com/allenwong/30DaysofSwift/tree/master/Project%2001%20-%20SimpleStopWatch)
 
-    1.extension的使用。
-    2.自定义cell的使用
-    3.结构体
-    4.Bundle路径
-    5.AVKit AVFoundation初步使用
+- extension的使用。
+- 自定义cell的使用
+- 结构体
+- Bundle路径
+- AVKit AVFoundation初步使用
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/[1]StopWatch/1StopWatch1.gif?raw=true)
 
