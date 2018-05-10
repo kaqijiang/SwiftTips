@@ -1,4 +1,4 @@
-# SwiftTips --- learning of Swift
+# SwiftTips -- learning of Swift
 
 
 ![](https://github.com/kaqijiang/SwiftTips/blob/master/index.png?raw=true)
@@ -19,7 +19,7 @@
 
 ## Project Index & GIF Showcase ##
 
-Project 01 - [SimpleStopWatch](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DStopWatch)
+### Project 01 - [SimpleStopWatch](https://github.com/kaqijiang/SwiftTips/tree/master/%5B2%5DStopWatch)
 
 - extension的使用。
 - 自定义cell的使用
