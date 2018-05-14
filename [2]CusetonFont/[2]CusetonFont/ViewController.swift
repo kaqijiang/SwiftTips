@@ -14,6 +14,7 @@ import UIKit
  3.tableView的基本使用
  4.UIFont设置字体
  5.storyboard navgationController的初步使用
+ 6.配置文件Fonts provided by application
  */
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
