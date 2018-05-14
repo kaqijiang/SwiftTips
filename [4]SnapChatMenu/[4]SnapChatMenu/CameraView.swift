@@ -73,6 +73,20 @@ import AVFoundation
     重复使用AVCapturePhotoSettings实例进行多次捕获是非法的。如果设置对象的uniqueID值与任何先前使用的设置对象的值相匹配，则调用capturePhoto（with：delegate :)方法将引发异常（invalidArgumentException）。
     要重新使用特定的设置组合，请使用init（from :)初始化程序从现有的照片设置对象创建一个新的，唯一的AVCapturePhotoSettings实例。
  
+ 步骤：
+ 1captureSession
+ 2captureSession格式
+ 3AVCaptureDevice 获取设备
+ 4把设备加入AVCaptureDeviceInput
+ 5把input加入captureSession
+ 6AVCapturePhotoOutput
+ 7AVCapturePhotoSettings
+ 8设置Output的photoSettingsForSceneMonitoring
+ 9把session加入到AVCaptureVideoPreviewLayer
+ 10设置preViewLayer属性
+ 11session running
+ 12使用stillImageOut?.capturePhoto(with: photoSettings!, delegate: self)触发AVCapturePhotoCaptureDelegate
+ 13didFinishProcessingPhoto中处理图片
 
  */
 
@@ -102,12 +116,12 @@ class CameraView: UIViewController, UIPickerViewDelegate, UINavigationController
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
+
         captureSession = AVCaptureSession()
         
         captureSession?.sessionPreset = AVCaptureSession.Preset.hd1920x1080
         let backCamera = AVCaptureDevice.default(for: .video)
-        AVCaptureDevice.default(.builtInDualCamera, for: AVMediaType.video, position: .front)
+        
         var error: NSError?
         var input: AVCaptureDeviceInput!
         
