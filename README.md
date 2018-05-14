@@ -48,6 +48,21 @@
 - AVKit AVFoundation初步使用
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B3%5DPlayLocalVideo/3PlayLocalVideo.gif?raw=true)
+
+
+### Project 4 - [SnapChatMenu](https://github.com/kaqijiang/SwiftTips/tree/master/%5B4%5DSnapChatMenu)
+
+ - xib初步使用
+ - 配置info.plist
+ - UIScrollView初步使用
+ - 属性，contentSize，bounces，isPagingEnabled
+ - AVFoundation  AVCaptureSession AVCaptureDevice AVCaptureDeviceInput AVCaptureOutput AVCapturePhotoOutput AVCapturePhotoSettings AVCaptureVideoPreviewLayer 的使用
+ - 详细说明在文件内
+ - [参考](https://www.jianshu.com/p/731ec03c5fcb)
+
+![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B4%5DSnapChatMenu/4SnapChatMenu.gif?raw=true)
+   
+
    
    
 
