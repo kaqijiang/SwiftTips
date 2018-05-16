@@ -61,7 +61,17 @@
  - [参考](https://www.jianshu.com/p/731ec03c5fcb)
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B4%5DSnapChatMenu/4SnapChatMenu.gif?raw=true)
-   
+ 
+### Project 5 - [CarouselEffect](https://github.com/kaqijiang/SwiftTips/tree/master/%5B5%5DCarouselEffect)
+  
+ - CollectionView的基本使用
+ - Visual Effect View 毛玻璃的基本使用
+ - static， struct关键字的使用
+ - 自定义cell
+ - didSet 监听
+  
+  ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B5%5DCarouselEffect/5CarouselEffect.gif?raw=true)
+       
 
    
    
