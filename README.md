@@ -72,7 +72,14 @@
   
   ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B5%5DCarouselEffect/5CarouselEffect.gif?raw=true)
        
+### Project 6 - [MyLocation](https://github.com/kaqijiang/SwiftTips/tree/master/%5B6%5DMyLocation)
 
+-  extension 不允许存储读写属性
+-  CLLocationManager 定位管理
+-  CLPlacemark初识 地理编码
+
+![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B6%5DMyLocation/6MyLocation.gif?raw=true)
+   
    
    
 
