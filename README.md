@@ -80,6 +80,14 @@
 
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B6%5DMyLocation/6MyLocation.gif?raw=true)
    
+### Project 7 - [LongitudeLatitude](https://github.com/kaqijiang/SwiftTips/tree/master/%5B7%5DLongitudeLatitude)
+
+- 地理编码地名 -> 经纬度
+- 反地理编码经纬度 ->地名
+- CLGeocoder CLPlacemark 处理
+- 天朝经纬度，火星坐标
+
+![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B7%5DLongitudeLatitude/7LongitudeLatitude.gif?raw=true)
    
    
 

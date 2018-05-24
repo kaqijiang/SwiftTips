@@ -56,7 +56,7 @@ import CoreLocation
  publicvar subThoroughfare: String? { get } //所在地址的下级道路名
  publicvar locality: String? { get } //所在地址的城市名，市
  publicvar subLocality: String? { get } //下一级城市名, 区
- publicvar administrativeArea: String? { get } //返回CLPlacemark所代表行政区域
+ publicvar administrativeArea: String? { get } //返回CLPlacemark所代表行政区域 直辖市等没有的话返回nil ****
  publicvar subAdministrativeArea: String? { get } //返回CLPlacemark所代表次级行政区
  publicvar postalCode: String? { get } //代表所在地址的邮编
  publicvar ISOcountryCode: String? { get } //代表地址所在国家的代码.中国：CN
@@ -113,7 +113,7 @@ extension ViewController {
                 if(error == nil) {
                     ///成功
                     if let place = placeMark?[0] {
-                        
+                        //比如直辖市 place.administrativeArea 就是nil 所以需要特殊注意
                         guard let country = place.country,
                             let administrativeArea = place.administrativeArea,
                             let locality = place.locality,
@@ -158,7 +158,7 @@ extension ViewController {
                         
                         guard let name = place.name,
                             let country = place.country,
-                            let administrativeArea = place.administrativeArea,
+//                            let administrativeArea = place.administrativeArea,
                             let latiude = place.location?.coordinate.latitude,
                             let longitude = place.location?.coordinate.longitude else{
                                 return
@@ -167,7 +167,8 @@ extension ViewController {
                         self.geoCode_longitudeValue.text = String(longitude.description)
                         self.geocode_latitudeValue.text = String(latiude.description)
                         
-                        self.geocodeError.text = country + administrativeArea + name
+//                        self.geocodeError.text = country + administrativeArea + name
+                        self.geocodeError.text = country + name
                         print(place)
                     }else {
                         self.geocodeError.text = "error,解析失败"
