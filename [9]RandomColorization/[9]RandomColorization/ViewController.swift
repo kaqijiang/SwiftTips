@@ -19,7 +19,10 @@
  - type 绘制类型,默认值是kCAGradientLayerAxial,也就是线性绘制,各个颜色阶层直接的变化是线性的
  
  
- drand48
+ ### drand48
+ 
+ ### Url 不能用 if let  guard let 因为URL不是必选
+ 
  */
 import UIKit
 import AVFoundation
