@@ -97,7 +97,14 @@
   
   ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B8%5Dpulltorefresh/8pulltorefresh.gif?raw=true)
        
+### Project 9 - [RandomColorization](https://github.com/kaqijiang/SwiftTips/tree/master/%5B9%5DRandomColorization)
 
+- CAGradientLayer 梯度图层
+- drand48 随机数
+- AVAudioSession 基本使用 
+
+![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B9%5DRandomColorization/9RandomColorization.gif?raw=true)
+   
 
 ## Next ##
 
