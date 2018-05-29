@@ -106,6 +106,9 @@
 ![](https://raw.githubusercontent.com/kaqijiang/SwiftTips/master/%5B9%5DRandomColorization/9RandomColorization.gif?raw=true)
    
 
+
+
+
 ## Next ##
 
 
