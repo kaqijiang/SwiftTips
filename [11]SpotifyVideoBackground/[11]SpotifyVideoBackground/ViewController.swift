@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: VideoSplashViewController {
 
     override var preferredStatusBarStyle: UIStatusBarStyle {
         return .lightContent
@@ -33,7 +33,15 @@ class ViewController: UIViewController {
         }
         let url = URL(fileURLWithPath: bundlePatch)
         
+        videoFrame = view.frame
+        startTime = 2.0
+        sound = true
+        alpha = 0.8
+        contentURL = url
+        fillMode = .resizeAspectFill
+        alwaysRepeat = true
         
+        view.isUserInteractionEnabled = false
     }
     
     override func didReceiveMemoryWarning() {
